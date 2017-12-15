@@ -1,0 +1,27 @@
+div.Profile{
+    border: 1px solid black;
+    margin: 50px 100px;
+    text-align: center;
+    background-color: #E492C5;
+}
+
+img{
+    height: 100%;
+    margin: auto;
+    display: block;
+}
+
+div.tetx{
+    border: 1px solid black;
+    margin: 50px 100px; 
+    background-color: #f9d4dd;
+    text-align: center;
+}
+
+div ul.li{
+    margin: 20px 600px;
+}
+
+div.ol{
+    text-align: center;
+}
